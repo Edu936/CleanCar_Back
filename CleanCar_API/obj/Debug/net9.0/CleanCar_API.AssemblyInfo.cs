@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleanCar_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67fb4ef4963b00a9540cbe85c5fb57b03f6fc0f0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16b42fabbd85420f0461e79e13e39d3ae5339234")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleanCar_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleanCar_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
