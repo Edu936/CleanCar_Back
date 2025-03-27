@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanCar_API", "CleanCar_API\CleanCar_API.csproj", "{A757E68B-343E-42F0-81B3-B0223ECB61C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanCar_Domain", "CleanCar_Domain\CleanCar_Domain.csproj", "{06700852-A1C2-4F6A-B638-2300D4D1CFA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A757E68B-343E-42F0-81B3-B0223ECB61C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A757E68B-343E-42F0-81B3-B0223ECB61C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A757E68B-343E-42F0-81B3-B0223ECB61C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A757E68B-343E-42F0-81B3-B0223ECB61C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06700852-A1C2-4F6A-B638-2300D4D1CFA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06700852-A1C2-4F6A-B638-2300D4D1CFA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06700852-A1C2-4F6A-B638-2300D4D1CFA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06700852-A1C2-4F6A-B638-2300D4D1CFA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1562332F-73D0-4547-9731-9789A937770D}
+	EndGlobalSection
+EndGlobal
