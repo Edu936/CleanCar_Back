@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dudum\\Desktop\\CSharp\\CleanCar_Back\\CleanCar_API\\CleanCar_Api.csproj": {}
+    "C:\\Users\\dudum\\Desktop\\CSharp\\CleanCar_Back\\CleanCar_Infrastructure\\CleanCar_Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dudum\\Desktop\\CSharp\\CleanCar_Back\\CleanCar_API\\CleanCar_Api.csproj": {
+    "C:\\Users\\dudum\\Desktop\\CSharp\\CleanCar_Back\\CleanCar_Infrastructure\\CleanCar_Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dudum\\Desktop\\CSharp\\CleanCar_Back\\CleanCar_API\\CleanCar_Api.csproj",
-        "projectName": "CleanCar_Api",
-        "projectPath": "C:\\Users\\dudum\\Desktop\\CSharp\\CleanCar_Back\\CleanCar_API\\CleanCar_Api.csproj",
+        "projectUniqueName": "C:\\Users\\dudum\\Desktop\\CSharp\\CleanCar_Back\\CleanCar_Infrastructure\\CleanCar_Infrastructure.csproj",
+        "projectName": "CleanCar_Infrastructure",
+        "projectPath": "C:\\Users\\dudum\\Desktop\\CSharp\\CleanCar_Back\\CleanCar_Infrastructure\\CleanCar_Infrastructure.csproj",
         "packagesPath": "C:\\Users\\dudum\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dudum\\Desktop\\CSharp\\CleanCar_Back\\CleanCar_API\\obj\\",
+        "outputPath": "C:\\Users\\dudum\\Desktop\\CSharp\\CleanCar_Back\\CleanCar_Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -61,9 +61,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

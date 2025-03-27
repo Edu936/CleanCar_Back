@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CleanCar_API")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("CleanCar_Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1abd28d2138c7aace2380f62281eb7fa30f2131")]
-[assembly: System.Reflection.AssemblyProductAttribute("CleanCar_API")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CleanCar_API")]
+[assembly: System.Reflection.AssemblyProductAttribute("CleanCar_Infrastructure")]
+[assembly: System.Reflection.AssemblyTitleAttribute("CleanCar_Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
